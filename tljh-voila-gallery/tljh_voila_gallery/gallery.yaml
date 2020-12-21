@@ -6,7 +6,6 @@ examples:
     ref: 4b4b45f419adc8e4e9e2a8983825f3ddff284211
     repo_url: https://github.com/mkcor/covid-plots
     image_url: https://raw.githubusercontent.com/mkcor/covid-plots/master/img/screenshot_covid_app.png
-
   covidworld:
     title: covid-19-world-dashboard
     description: Interactive visualizations of the impact of covid-19 around the world
@@ -14,7 +13,6 @@ examples:
     ref: 91b8046dfc51e0623700ece1372e64dc770ae71e
     repo_url: https://github.com/sunnysinghnitb/covid-19-world-dashboard
     image_url: https://raw.githubusercontent.com/sunnysinghnitb/covid-19-world-dashboard/master/thumbnail.png
-
   country-indicators:
     title: Country Indicators
     description: Explore the correlations between indicators of development using matplotlib and ipywidgets
@@ -22,7 +20,6 @@ examples:
     repo_url: https://github.com/voila-gallery/voila-gallery-country-indicators
     ref: 7cd5df8169fe6acefe1d5a200f9878e441b9208a
     image_url: https://i.imgur.com/IeG75O3.png
-
   gaussian-density:
     title: Gaussian Density
     description: Explore the normal distribution interactively with bqplot
@@ -30,7 +27,6 @@ examples:
     repo_url: https://github.com/voila-gallery/gaussian-density
     ref: a643a1b180e1892840f4f692115f05a2b6df7bcb
     image_url: https://i.imgur.com/J1Mj6rc.png
-
   football:
     title: interactive-football-pitch
     description: Interactive football pitch build with voila, qgrid and bqplot.
@@ -38,7 +34,6 @@ examples:
     repo_url: https://github.com/seidlr/voila-interactive-football-pitch
     ref: 61799617090df7f9c6564927adc3823803f1670e
     image_url: https://i.imgur.com/yuWQZtL.png
-
   ipymaps:
     title: ipymaps
     description: Maps with configurable search queries
@@ -46,8 +41,6 @@ examples:
     repo_url: https://github.com/deeplook/ipymaps
     ref: ae7e7b2d41405592d632dd5ee721718602a81e46
     image_url: https://raw.githubusercontent.com/deeplook/ipymaps/master/ipymaps.gif
-
-
   ml_vis:
     title: machine-learning-visualization
     description: An interactive visualization of machine learning evaluation metrics
@@ -55,7 +48,6 @@ examples:
     repo_url: https://github.com/dhaitz/machine-learning-interactive-visualization
     ref: 70b23f05c9e36be556e806996bab7face26b893d
     image_url: https://raw.githubusercontent.com/dhaitz/machine-learning-interactive-visualization/master/img/ml_visualization.gif
-
   grad_desc:
     title: gradient-descent-material
     description: A gradient descent computation using bqplot and the voila-material design template
@@ -63,8 +55,6 @@ examples:
     repo_url: https://github.com/voila-dashboards/voila-material
     ref: a45bdcdcdaaab7086e3f4f36b50e6f30f6bf7094
     image_url: https://raw.githubusercontent.com/voila-dashboards/voila-material/master/images/material_light.png
-
-
   ipyml:
     title: voila-ipympl
     description: Interactive matplotlib in a Voila dashboard
@@ -72,7 +62,6 @@ examples:
     repo_url: https://github.com/voila-gallery/ipympl
     ref: 488dd54eed412e8be19245e86c0542e2087dd91f
     image_url: https://github.com/voila-gallery/ipympl/raw/master/thumbnail.png
-
   spotify:
     title: voila-spotify
     description: Spotify activity viewer in a Github activity fashion, using ipympl
@@ -80,7 +69,6 @@ examples:
     repo_url: https://github.com/voila-gallery/voila-spotify
     ref: 625f0d3eb7472db4f355fdd8ab522c5bebf291c7
     image_url: https://github.com/voila-gallery/voila-spotify/raw/master/thumbnail.png
-
   jupyter-flex:
     title: jupyter-flex
     description: Easy interactive dashboards for Jupyter
